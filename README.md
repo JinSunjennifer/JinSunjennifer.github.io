@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+After cloning this repo to your local, cd into the repo root dir and install the dependencies:
+```bash
+$ npm install
+```
+Start the node server:
+```bash
+$ npm start
+```
+Then go to http://localhost:3000/ to see your website.
+
+To deploy your latest changes to github page, run
+```bash
+$ npm run clean
+$ npm run deploy
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
