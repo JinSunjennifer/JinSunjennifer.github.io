@@ -14,8 +14,7 @@ Then go to http://localhost:3000/ to see your website.
 
 To deploy your latest changes to github page, run
 ```bash
-$ npm run clean
-$ npm run deploy
+$ npm run clean && npm run deploy
 ```
 
 ## Available Scripts
